@@ -70,3 +70,5 @@ This project can be applied in real educational institutions like schools, colle
 - Manage faculty and administrative workflows digitally.  
 
 ---
+
+**Demo Link** :  https://drive.google.com/file/d/1S4d-hVaj-sHd4I5YXxHq4Ft7-lnXAuRy/view?usp=sharing
